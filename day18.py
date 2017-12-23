@@ -111,8 +111,3 @@ def day18_2():
             curr_idx = line_nos[pr]
             curr_registers = programs[pr]
     print send_count
-
-    
-    
-    
- 
