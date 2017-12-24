@@ -31,6 +31,7 @@ part_two_longest = 0
 for b in bridges:
     l = get_length(b)
     s = get_score(b)
+    
     if s > part_one_strongest:
         part_one_strongest = s
 
